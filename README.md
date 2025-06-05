@@ -1,6 +1,8 @@
 <h1 align="center">¡Hola! 👋 Soy Valentina </h1> <p align="center">
-  <img src="https://camo.githubusercontent.com/4729fce2940a9504d988976671cb74482208c9e9e9f4d936260a62c31a8038f7/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d656c64706172726f742e676966" height="180" alt="Meltdown gamer" />
+ <p align="center">
+  <img src="https://camo.githubusercontent.com/4729fce2940a9504d988976671cb74482208c9e9e9f4d936260a62c31a8038f7/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d656c64706172726f742e676966" height="100" alt="flamingo gif" />
 </p>
+
 
 <h3 align="center">📡 Estudiante de Ingeniería Electrónica | 🎮 Gamer | 🐾 Amante de los animales</h3>
 
