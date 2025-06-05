@@ -14,16 +14,23 @@
 
 🔧 **Tecnologías y herramientas que utilizo**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/-C/C++-333333?style=flat&logo=cplusplus&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=00979D" />
-  <img src="https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks&logoColor=orange" />
-  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624" />
-</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/matlab-%23e16737.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+</p>
 ---
 
 🎮 **Proyectos destacados**
@@ -36,9 +43,7 @@
 
 📫 **Contacto**
 
-- ✉️ Correo: [tucorreo@dominio.com](mailto:tucorreo@dominio.com)
-- 🌐 Portafolio (si tienes): [tusitio.com](https://tusitio.com)
-- 📸 Instagram (opcional): [@tuusuario](https://instagram.com/tuusuario)
+- 📸 Instagram : [@11valentina9](https://www.instagram.com/11valentina9/)
 
 ---
 
