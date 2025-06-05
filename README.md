@@ -57,9 +57,9 @@
 💖 Gracias por visitar mi perfil. ¡Vamos a construir algo increíble!
 
 <p align="center">
-  <img src="https://media.tenor.com/BOsE0r4Ni5UAAAAC/cute-kitty.gif" height="100" />
+  <img src="https://media.tenor.com/BOsE0r4Ni5UAAAAC/cute-kitty.gif" height="100">
 </p>
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue&quote=My%20mercy%20prevails%20over%20my%20wrath%20%E2%80%93%20from%20my%20favorite%20serie" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=My%20mercy%20prevails%20over%20my%20wrath" />
 </p>
