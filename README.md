@@ -58,11 +58,8 @@
   <img src="https://media.tenor.com/BOsE0r4Ni5UAAAAC/cute-kitty.gif" height="100">
 </p>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/4729fce2940a9504d988976671cb74482208c9e9e9f4d936260a62c31a8038f7/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d656c64706172726f742e676966" height="180" alt="Meltdown gamer" />
-</p>
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue&quote=My%20mercy%20prevails%20over%20my%20wrath" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=My%20mercy%20prevails%20over%20my%20wrath" />
 </p>
 
 
