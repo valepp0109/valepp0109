@@ -68,10 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue&quote=My%20mercy%20prevails%20over%20my%20wrath%20%E2%80%93%20from%20my%20favorite%20serie" />
-</p>
-
-<p align="center">
+  <strong>👀 Contador de visitas al perfil:</strong><br>
   <img src="https://profile-counter.glitch.me/valep0109/count.svg" alt="Contador de visitas" />
 </p>
 
