@@ -1,4 +1,7 @@
-<h1 align="center">¡Hola! 👋 Soy Valentina </h1>
+<h1 align="center">¡Hola! 👋 Soy Valentina </h1> <p align="center">
+  <img src="https://camo.githubusercontent.com/4729fce2940a9504d988976671cb74482208c9e9e9f4d936260a62c31a8038f7/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d656c64706172726f742e676966" height="180" alt="Meltdown gamer" />
+</p>
+
 <h3 align="center">📡 Estudiante de Ingeniería Electrónica | 🎮 Gamer | 🐾 Amante de los animales</h3>
 
 ---
@@ -26,12 +29,9 @@
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 </p>
 ---
@@ -55,3 +55,7 @@
 <p align="center">
   <img src="https://media.tenor.com/BOsE0r4Ni5UAAAAC/cute-kitty.gif" height="100">
 </p>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/4729fce2940a9504d988976671cb74482208c9e9e9f4d936260a62c31a8038f7/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d656c64706172726f742e676966" height="180" alt="Meltdown gamer" />
+</p>
+
