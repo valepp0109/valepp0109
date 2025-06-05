@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
+<h1 align="center">¡Hola! 👋 Soy Valentina </h1>
 <h3 align="center">📡 Estudiante de Ingeniería Electrónica | 🎮 Gamer | 🐾 Amante de los animales</h3>
 
 ---
@@ -9,6 +9,9 @@
 - 💡 Me interesa todo lo relacionado con la robótica, los videojuegos retro y las tecnologías creativas.
 - 🐱 Amante de los animales, ¡especialmente los gatos! 😺
 - 🎨 Mi color favorito es el **rosado**, y lo verás reflejado en mi estilo visual ✨
+<p align="center">
+  <img src="https://camo.githubusercontent.com/d7d9f550bdc257fb6a47323ffc0f50c067481a616f1f0e5dd468d3acd2cec4c7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f68733442536163464b493741373137792f67697068792e676966" height="180" alt="Unicornio programador" />
+</p>
 
 ---
 
@@ -35,9 +38,9 @@
 
 🎮 **Proyectos destacados**
 
-- 🕹️ [Juego de naves espaciales en Python](https://github.com/tuusuario/juego_naves) – Un clásico arcade recreado con pygame.
-- 🧠 [Sistema de reconocimiento de emociones con PEPPER](https://github.com/tuusuario/pepper_emociones) – Proyecto de análisis de sentimientos usando IA.
-- 🐢 [Control de robot TurtleBot3 con ROS](https://github.com/tuusuario/turtlebot3-ros-proyecto) – Automatización y mapeo en tiempo real.
+- 🕹️ [Juego de naves espaciales en Python]– Un clásico arcade recreado con pygame.
+- 🧠 [Sistema de reconocimiento de emociones con PEPPER] – Proyecto de análisis de sentimientos usando IA.
+- 🐢 [Control de robot TurtleBot3 con ROS]– Automatización y mapeo en tiempo real.
 
 ---
 
